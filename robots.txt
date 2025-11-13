@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://cryptotrend.pl/sitemap.xml
+Sitemap: https://landing.cryptotrend.pl/sitemap.xml
